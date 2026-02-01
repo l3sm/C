@@ -1,2 +1,3 @@
 # C
-First semester C projects of mine
+projects of mine in c
+
